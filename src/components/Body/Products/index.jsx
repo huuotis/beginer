@@ -21,7 +21,7 @@ function Products(props) {
             <h3 className="accessory__title">Iphone X</h3>
             <span className="accessory__category">Accessory</span>
             <span className="accessory__preci">$9.45</span>
-            <a href="#" className="button accessory__button">
+            <a href="/some/valid/uri#top#" className="button accessory__button">
               <i className="bx bx-heart"></i>
             </a>
           </div>
@@ -35,7 +35,7 @@ function Products(props) {
             <h3 className="accessory__title">Iphone Pro 12</h3>
             <span className="accessory__category">Accessory</span>
             <span className="accessory__preci">$2.52</span>
-            <a href="#" className="button accessory__button">
+            <a href="/some/valid/uri#top#" className="button accessory__button">
               <i className="bx bx-heart"></i>
             </a>
           </div>
@@ -49,7 +49,7 @@ function Products(props) {
             <h3 className="accessory__title">Nokia</h3>
             <span className="accessory__category">Accessory</span>
             <span className="accessory__preci">$13.15</span>
-            <a href="#" className="button accessory__button">
+            <a href="/some/valid/uri#top#" className="button accessory__button">
               <i className="bx bx-heart"></i>
             </a>
           </div>
@@ -63,7 +63,7 @@ function Products(props) {
             <h3 className="accessory__title">Macbook</h3>
             <span className="accessory__category">Accessory</span>
             <span className="accessory__preci">$800</span>
-            <a href="#" className="button accessory__button">
+            <a href="/some/valid/uri#top#" className="button accessory__button">
               <i className="bx bx-heart"></i>
             </a>
           </div>
@@ -77,7 +77,7 @@ function Products(props) {
             <h3 className="accessory__title">Macbook Pro</h3>
             <span className="accessory__category">Accessory</span>
             <span className="accessory__preci">$1000</span>
-            <a href="#" className="button accessory__button">
+            <a href="/some/valid/uri#top#" className="button accessory__button">
               <i className="bx bx-heart"></i>
             </a>
           </div>

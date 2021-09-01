@@ -72,7 +72,7 @@ function Header(props) {
     <>
       <header className="l-header" id="header">
         <nav className="nav bd-container">
-          <a href="#" className="nav__logo">
+          <a href="/some/valid/uri#top#" className="nav__logo">
             CSS TUTORIAL CHANNEL
           </a>
 

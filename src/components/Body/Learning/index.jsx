@@ -21,7 +21,7 @@ function Learning(props) {
               fraction of the cost of a bootcamp. Start with the front-end by
               learning HTML, CSS, and JavaScript...
             </p>
-            <a href="#" className="button">
+            <a href="/some/valid/uri#top#" className="button">
               Get Started
             </a>
           </div>

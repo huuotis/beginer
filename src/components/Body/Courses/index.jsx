@@ -21,7 +21,7 @@ function Courses(props) {
               className="decoration__img"
             />
             <h3 className="decoration__title">HTML</h3>
-            <a href="#" className="button button-link">
+            <a href="/some/valid/uri#top#" className="button button-link">
               Go Course
             </a>
           </div>
@@ -33,7 +33,7 @@ function Courses(props) {
               className="decoration__img"
             />
             <h3 className="decoration__title">CSS</h3>
-            <a href="#" className="button button-link">
+            <a href="/some/valid/uri#top#" className="button button-link">
               Go Course
             </a>
           </div>
@@ -45,7 +45,7 @@ function Courses(props) {
               className="decoration__img"
             />
             <h3 className="decoration__title">JAVASCRIPT</h3>
-            <a href="#" className="button button-link">
+            <a href="/some/valid/uri#top#" className="button button-link">
               Go Course
             </a>
           </div>

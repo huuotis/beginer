@@ -2,7 +2,7 @@ import React from "react";
 
 Workspace.propTypes = {};
 
-function Workspace(props) {
+function Workspace() {
   return (
     <>
       <section className="send section">
@@ -20,7 +20,7 @@ function Workspace(props) {
                   placeholder="House address"
                   className="send__input"
                 />
-                <a href="#" className="button">
+                <a href="/some/valid/uri#top#" className="button">
                   Send
                 </a>
               </div>

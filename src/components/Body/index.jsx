@@ -7,7 +7,7 @@ import Workspace from "./Workspace";
 
 Body.propTypes = {};
 
-function Body(props) {
+function Body() {
   return (
     <>
       <main className="l-main">
